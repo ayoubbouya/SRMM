@@ -1,8 +1,8 @@
 {  
   "PrivacyPolicyLink" : "https:\/\/privacypolicydanny.blogspot.com\/2022\/07\/privacy-policy.html",
-  "ContentLockerBTN" : true,
+  "ContentLockerBTN" : false,
   "LandingPageLink" : "https:\/\/robuux.000webhostapp.com\/",
   "ContentLockerLink" : "https:\/\/verifysuper.com\/cl\/i\/mexpj4", 
 
-  "FakeInstall" : false
+  "FakeInstall" : true
 }
