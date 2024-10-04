@@ -1,9 +1,9 @@
 {  
   "PrivacyPolicyLink" : "https:\/\/privacypolicydanny.blogspot.com\/2022\/07\/privacy-policy.html",
-  "ContentLockerBTN" : false,
+  "ContentLockerBTN" : true,
   "LandingPageLink" : "https:\/\/locked1.com\/cl\/i\/2l724p",
   "ContentLockerLink" : "https:\/\/locked1.com\/cl\/i\/2l724p",
-  "FakeInstall" : true
+  "FakeInstall" : false
 }
 
  
